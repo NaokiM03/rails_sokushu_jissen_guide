@@ -18,7 +18,7 @@ services:
       TZ: 'Asia/Tokyo'
       RAILS_ENV: development
       BUNDLER_EDITOR: vim
-      MYSQL_HOST: mysql
+      MYSQL_HOST: db
       MYSQL_USERNAME: root
       MYSQL_DATABASE: rails_db
       MYSQL_PORT: 3306
